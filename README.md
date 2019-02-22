@@ -1,2 +1,2 @@
 # Django-Projects
-A comprehensive collection of small Django projects that were used primarily for learning purposes
+A comprehensive collection of various Django-web applications.
